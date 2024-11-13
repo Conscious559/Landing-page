@@ -1,0 +1,71 @@
+
+body {
+  background-color: #b8b4b4;
+  font-family: Arial;
+  color: #333;
+  line-height: 1.6;
+}
+
+.hero-section {
+  background-image: url('img/fitt');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding: 150px 20px;
+}
+
+.hero-content h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.cta-button {
+  background-color: #ff5733;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1em;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: #c74e33;
+}
+
+
+.features-section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.features-section h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.features-section p {
+  font-size: 15px;
+  color: #666;
+}
+.buy-now-section {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.buy-now-section h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.buy-now-section p {
+  font-size: 20px;
+  color: #666;
+  margin-bottom: 15px;
+}
